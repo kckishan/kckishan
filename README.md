@@ -1,11 +1,11 @@
 <h1>Kishan K C</h1>
-<h3 align="center"> 🎓 <b>PhD Candidate</b> at Rochester Institute of Technology</h3>
+<h3 align="center"> 🎓 <b>Applied Scientist</b> at Amazon Alexa AI</h3>
 
-- 💻  Research areas: `Data Science`, `Machine Learning`, `Deep Learning`, `Graph Representation Learning`, `Link Prediction`, `Network Biology`.
+- 💻  Research areas: `Deep Learning`, `Graph Representation Learning`, `NLP`, `Question Answering`, `Natural Language Generation`.
 
 - ℹ️  More details on my personal website: https://kishankc.com.np/
-- 💬 Ask me about **machine learning, graph representation learning, network biology.**
-- 📫 How to reach me **kishan@mail.rit.edu**
+- 💬 Ask me about **Deep learning, Graph Representation Learning (GRL), Question Answering, Natural Language Generation.**
+- 📫 How to reach me **kishankhatrichettri@gmail.com**
 - 📄 Know about my experiences [resume](https://kishankc.com.np/files/kishan_kc_resume.pdf)
 
 
