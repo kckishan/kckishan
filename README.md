@@ -1,5 +1,5 @@
 <h1>Kishan K C</h1>
-<h3 align="center"> 🎓 <b>Sr. Applied Scientist</b> at Amazon Alexa AI</h3>
+<h3 align="center"> 🎓 <b>Sr. Applied Scientist</b> at Amazon AGI</h3>
 
 - 💻  Research areas: `Deep Learning`, `Graph Representation Learning`, `NLP`, `Question Answering`, `Natural Language Generation`.
 
